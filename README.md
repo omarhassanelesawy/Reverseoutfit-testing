@@ -1,4 +1,4 @@
-# Playwright E2E Testing Framework for ReverseOutfit.com
+# Playwright E2E Testing Framework for reverseoutfit.com
 
 A robust, scalable end-to-end testing framework built with Playwright and TypeScript, following the Page Object Model (POM) design pattern.
 
